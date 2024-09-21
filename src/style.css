@@ -1,0 +1,21 @@
+.container{
+    width: 300px;
+    height: 300px;
+    border: solid black 2px;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    background-color: rgb(235, 209, 229);
+}
+.formbox{
+    padding: 10px;
+    
+
+
+}
+#fnum,#lnum,#add{
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(75, 13, 76);
+    color: white;
+}
